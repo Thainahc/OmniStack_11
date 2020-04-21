@@ -18,7 +18,7 @@
 ***Be The Hero*** é um projeto com intuito de auxiliar ONGs a encontrarem heróis para ajudá-las, facilitando a arrecadação de fundos para suas causas. 
 
 <p aling="center">
-    <img src="https://ik.imagekit.io/r3bord7fnb/Teste2_I4HKsY_WE.jpg">
+    <img src="https://ik.imagekit.io/r3bord7fnb/Teste2_mp5IPr3pu.jpg">
 </p>
 
 ### 📚 Linguagens 
